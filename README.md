@@ -31,4 +31,4 @@ Breaking a big problem into smaller parts, testing one piece at a time, reading 
 I used clear names for variables and functions and added comments to explain the reasoning behind my choices. I kept the state machine logic organized so I could change a mode or setting without rewriting everything, and I made a state machine diagram that matches the code, so the design is easy to follow later.
 
 ## About me
-I'm a software engineering student at SNHU, graduating in April 2027. This portfolio is where I document what I build and what I learn along the way.****
+I'm a software engineering student at SNHU, graduating in April 2027. This portfolio is where I document what I build and what I learn along the way.
